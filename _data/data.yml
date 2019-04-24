@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ali Tarraf
     tagline: Lead Data Scientist
-    avatar: ali.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #ali.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ali.tarraf@gmail.com
@@ -48,7 +48,7 @@ career-profile:
     title: Career Profile
     summary: |
       Ali Tarraf is the lead data scientist and associate consultant at Mindsets, a strategy and decision advisory firm. Ali develops data to decision models to empower business decisions across the logistics, retail, manufacturing, healthcare and financial industry in the MENA region. 
-      Ali has 10 years of experience in manufacturing and Internet Of Things (IOT) solutions across West Africa and USA. He is currently actively pursuing research in Artificial Intelligence technology in partnership with AUB, and working his way towards earning a Deep Learning specialization certificate from Coursera/Stanford. Ali is fluent in Arabic, English, and French.
+      Ali has 10 years of experience in manufacturing and Internet Of Things (IOT) solutions across West Africa and USA. He is currently actively pursuing research in Artificial Intelligence technology in partnership with AUB, and working his way towards earning a Deep Learning specialization certificate from Coursera/Stanford.
 
 
 education:
@@ -57,7 +57,6 @@ education:
       time: 2015 - 2017
       details: |
         Research keyword areas: combustion, aerospace, engines, ignition, natural gas, statistical analysis,
-        Dissertation : [Hot Jet Ignition Delay Characterization of Methane and Hydrogen at Elevated Temperatures](https://search.proquest.com/openview/219d7ced76b832c8fbbf02f07aaeb7d7/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
     - degree: BSc in Mechanical Engineering
       university: American University of Beirut (AUB)
@@ -70,11 +69,11 @@ experiences:
       time:  May 2018 - Present
       company: Mindsets, Beirut,Lebanon
       details: |
-        Leading a team of engineers and businesss consultant in Beirut, and Cairo and creating measurable business value
+        Leading a team of engineers and businesss consultant in Beirut, and Cairo to create measurable business value
         from the wealth of enterprise and public government data.
 
           - Developed a routing optimization software for logistics delivery companies that saved 15% in processing time
-          - Created the data to decision practice strategy, and launched business development initiatives in the MENA region
+          - Developed the data to decision practice business model, and launched business development initiatives in the MENA region
 
     - role: Design Engineer, 
       time:  September 2017- May 2018
@@ -88,42 +87,51 @@ experiences:
           - Developed a web application to transition the FORTRAN based user interface of electric motor design software
 
     - role: Project Lead, 
-      time: January 2017- September 2018
+      time: January 2017- September 2017
       company: Regal Beloit, Fort Wayne, USA
       details: |
-        As a design engineer working on power generation machinery:
+        As a project lead working on new product developments in electric motors solutions:
 
-          - Designed a 45 inches diameter fan for cooling 1000frame generators. The new design was 5% more efficient.
-          - Performed computational fluid dynamics simulations of the new fan design, and validated results with self-built in house wind tunnel
-          - Developed a web application to streamline the fan conceptual design and sizing engineering process
-          - Developed a web application to transition the FORTRAN based user interface of electric motor design software
+          - Worked with customers, sales team, product managers and engineers to solve pending product issues by seeing through pending engineering/manufacturing problems 
+          - Managed 9 simultaneous improvement projects
+          - Executed quality testing procedures to ensure reliability as per UA certification
 
-    - role: Preliminary Year,Internal Medicine
-      time: 2013 - 2014
-      company: American University of Beirut Medical Center (AUBMC)
+    - role: Energy Auditor
+      time: September 2015 - December 2016
+      company: United States Department of Energy Industrial Assessment Center at IUPUI, Indianapolis, USA
       details: |
-        As a 1st year Internal Medecine Physician...
+        As an energy auditor with the DOE-IAC:
 
-          - Seeing 20 patients a day while at the same time
-          - Drawing a smile in my patients heart
+          - Recommended more than 350,000$ in energy and cost savings to more than 6 manufacturing companies in the state of Indiana 
+          - Performed energy saving analysis on power, lighting, pneumatics, water, hydraulics, waste, and operational processes in manufacturing plants
+          - Redacted and edited energy auditing reports delivered to manufacturing clients
           
-    - role: Sub-internship,Gastroenterology Service
-      time: April - May 2013
-      company: UCLA Ronald Reagan Medical Center, California
+    - role: Teaching and Research Assisstant
+      time: September 2014 - December 2016
+      company: Combustion and Propulsion Research Lab at IUPUI, Indianapolis, USA
       details: |
-        As an intern Physician...
+        As a teaching and research assistant in the lab:
 
-          - Seeing 20 patients a day while at the same time
-          - Drawing a smile in my patients heart
+          - Research key words: Experimental combustion testing, hot jet ignition, aerospace, automation and data acquisition, plasma ignition, CNC machining, mass flow controllers. 
+          - Teaching 300 students computer aided design (CAD) with Solidworks and ProE skills and 3D printing.
           
-    - role: Sub-internship,Hematology/Oncology Service
-      time: March - April 2013
-      company: Indiana University Hospital/IUPUI,Indiana
+    - role: Chief Excutive Officer
+      time: August 2011 - September 2014
+      company: Randaplast, Ghana
       details: |
-        As a 1st year Internal Medecine Physician...
+        As the CTO of Randaplast:
 
-          - Seeing 20 patients a day while at the same time
-          - Drawing a smile in my patients heart
+          - Grew the factory production capacity by a factor of 6 from 60 tons to 360 tons a year
+          - Launched plastic colorant trading business unit in partnership with chinese suppliers
+     
+    - role: Plant Manager
+      time: November 2009 - August 2011
+      company: Societe pour le Compoundage en Cote d'Ivoire, Ivory Coast
+      details: |
+        As the plant manager of SCCI:
+
+          - Managed $40 million of plant production output per year with a team of 56 employees
+          - Oversaw predictive and preventive maintenance programs, and quality control
           
 projects:
     title: Projects
