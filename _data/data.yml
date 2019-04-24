@@ -142,6 +142,10 @@ projects:
       - title: Flaty
         link: "#"
         tagline: "A blockchain real estate start up idea that got awarded the 3rd prize in the Consensys Blockchain hackaton in Beirut Lebanon in October 2018"
+      
+      - title: 1 Million Arab Coders Udacity
+        link: "https://www.udacity.com/mena/one-million-arab-coders/"
+        tagline: "Mentoring of aspiring coders through Udacity as a Full stack web developer over a period of 3 month in Q4 2018"
 
       - title: FANSIS
         link: "http://fathomless-eyrie-98760.herokuapp.com/"
@@ -186,7 +190,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 90%
+        level: 80%
 
       - name: Machine Learning
         level: 60%
