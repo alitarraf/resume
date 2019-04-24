@@ -56,27 +56,14 @@ education:
       university: Purdue University, USA
       time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Research keyword areas: combustion, aerospace, engines, ignition, natural gas, statistical analysis,
+        Dissertation : [Hot Jet Ignition Delay Characterization of Methane and Hydrogen at Elevated Temperatures](https://search.proquest.com/openview/219d7ced76b832c8fbbf02f07aaeb7d7/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
     - degree: BSc in Mechanical Engineering
       university: American University of Beirut (AUB)
       time: 2006 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        
 
 experiences:
     - role: Lead Data Scientist and Associate Consultant
