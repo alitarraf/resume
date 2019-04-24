@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Ali Tarraf
-    tagline: Lead Data Scientist
-    avatar: #ali.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Lead Data Scientist & Associate Consultant
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ali.tarraf@gmail.com
@@ -115,14 +115,14 @@ experiences:
           - Research key words: Experimental combustion testing, hot jet ignition, aerospace, automation and data acquisition, plasma ignition, CNC machining, mass flow controllers. 
           - Teaching 300 students computer aided design (CAD) with Solidworks and ProE skills and 3D printing.
           
-    - role: Chief Excutive Officer
+    - role: Chief Operations Officer
       time: August 2011 - September 2014
       company: Randaplast, Ghana
       details: |
-        As the CTO of Randaplast:
+        As the COO of Randaplast:
 
           - Grew the factory production capacity by a factor of 6 from 60 tons to 360 tons a year
-          - Launched plastic colorant trading business unit in partnership with chinese suppliers
+          - Launched plastic colorant trading business unit in partnership with Chinese suppliers
      
     - role: Plant Manager
       time: November 2009 - August 2011
@@ -131,77 +131,73 @@ experiences:
         As the plant manager of SCCI:
 
           - Managed $40 million of plant production output per year with a team of 56 employees
-          - Oversaw predictive and preventive maintenance programs, and quality control
+          - Oversaw predictive and preventive maintenance and quality control programs
           
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of interesting projects accumulated over the years.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FANSIS
+        link: "http://fathomless-eyrie-98760.herokuapp.com/"
+        tagline: "A fan conceptual sizing and design web application inspired by the work of Dr P. Epple"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 3D printing projects
+        link: "http://www.ali-tarraf.com/portfolio-posts/mentoring-of-students-3d-printing-cad-projects/"
+        tagline: "My work mentoring students in the the CAD class, paid off in interesting design and builds with inventive concepts."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: [Hot Jet Ignition Delay Characterization of Methane and Hydrogen at Elevated Temperatures](https://search.proquest.com/openview/219d7ced76b832c8fbbf02f07aaeb7d7/1?pq-origsite=gscholar&cbl=18750&diss=y)
+        authors: Ali Tarraf
+        conference:  Purdue University, ProQuest Dissertations Publishing, 2017. 10615574
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Three-Dimensional Simulation of Turbulent Hot-Jet Ignition for Air-CH4-H2 Deflagration in a Confined Volume"
+        authors: ME Feyz, MR Nalim, Md N Khan, A Tarraf, KY Paik
+        conference: "Flow, Turbulence and Combustion Journal Vol.101,Issue 1 p.123-137 2018/7/1"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Contagious smile
+      - name: Python
         level: 90%
 
-      - name: Bone marrow biopsies
-        level: 98%
+      - name: Machine Learning
+        level: 60%
 
-      - name: Lumbar puncture
-        level: 98%
+      - name: Financial modeling
+        level: 80%
 
-      - name: Public speaking
-        level: 95%
+      - name: Blockchain
+        level: 80%
 
-      - name: Leadership
+      - name: Electronics
         level: 85%
 
-      - name: Strong patient advocate
-        level: 100%
+      - name: Manufacturing
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
