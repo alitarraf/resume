@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ali Tarraf
     tagline: Lead Data Scientist
-    avatar: sara.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ali.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ali.tarraf@gmail.com
@@ -21,7 +21,7 @@ sidebar:
     bitbucket:
     twitter: '@alitarraf'
     stack-overflow: 6464857/ali-tarraf # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: alitarraf
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -38,18 +38,17 @@ sidebar:
       - item: DIY
         link:
 
-      - item: Aviation
+      - item: Reading
         link:
 
-      - item: Travelling
+      - item: Aviation and Space
         link:
 
 career-profile:
     title: Career Profile
     summary: |
       Ali Tarraf is the lead data scientist and associate consultant at Mindsets, a strategy and decision advisory firm. Ali develops data to decision models to empower business decisions across the logistics, retail, manufacturing, healthcare and financial industry in the MENA region. 
-      Ali has 10 years of experience in manufacturing and Internet Of Things (IOT) solutions across West Africa and USA. Before joining Mindsets, Ali was leading IOT efforts at Regal USA a leading manufacturing Fortune 1000 corporation. He was also a founder and chief technical officer of a plastics recycling and manufacturing company in Ghana.
-      Ali holds a MSc from Purdue University, USA, and a B.Eng from American University of Beirut. He is currently actively pursuing research in Artificial Intelligence technology in partnership with AUB, and working his way towards earning a Deep Learning specialization certificate from Coursera/Stanford. Ali is fluent in Arabic, English, and French.
+      Ali has 10 years of experience in manufacturing and Internet Of Things (IOT) solutions across West Africa and USA. He is currently actively pursuing research in Artificial Intelligence technology in partnership with AUB, and working his way towards earning a Deep Learning specialization certificate from Coursera/Stanford. Ali is fluent in Arabic, English, and French.
 
 
 education:
@@ -80,23 +79,37 @@ education:
           - Bullet point
 
 experiences:
-    - role: Fellow Physician,Hematology Oncology
-      time: 2017 - Present
-      company: Medical University of South Carolina(MUSC), South Carolina
+    - role: Lead Data Scientist and Associate Consultant
+      time:  May 2018 - Present
+      company: Mindsets, Beirut,Lebanon
       details: |
-        As a Fellow Physician in Hematology Oncology...
+        Leading a team of engineers and businesss consultant in Beirut, and Cairo and creating measurable business value
+        from the wealth of enterprise and public government data.
 
-          - Seeing 20 patients a day while at the same time
-          - Drawing a smile in my patients heart
+          - Developed a routing optimization software for logistics delivery companies that saved 15% in processing time
+          - Created the data to decision practice strategy, and launched business development initiatives in the MENA region
 
-    - role: Resident Physician,Internal Medicine
-      time: 2014 - 2017
-      company: Medical University of South Carolina(MUSC), South Carolina
+    - role: Design Engineer, 
+      time:  September 2017- May 2018
+      company: Regal Beloit, Wisconsin, USA
       details: |
-        As a Resident Internal Medecine Physician...
+        As a design engineer working on power generation machinery:
 
-          - Seeing 20 patients a day while at the same time
-          - Drawing a smile in my patients heart
+          - Designed a 45 inches diameter fan for cooling 1000frame generators. The new design was 5% more efficient.
+          - Performed computational fluid dynamics simulations of the new fan design, and validated results with self-built in house wind tunnel
+          - Developed a web application to streamline the fan conceptual design and sizing engineering process
+          - Developed a web application to transition the FORTRAN based user interface of electric motor design software
+
+    - role: Project Lead, 
+      time: January 2017- September 2018
+      company: Regal Beloit, Fort Wayne, USA
+      details: |
+        As a design engineer working on power generation machinery:
+
+          - Designed a 45 inches diameter fan for cooling 1000frame generators. The new design was 5% more efficient.
+          - Performed computational fluid dynamics simulations of the new fan design, and validated results with self-built in house wind tunnel
+          - Developed a web application to streamline the fan conceptual design and sizing engineering process
+          - Developed a web application to transition the FORTRAN based user interface of electric motor design software
 
     - role: Preliminary Year,Internal Medicine
       time: 2013 - 2014
