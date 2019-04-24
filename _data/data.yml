@@ -139,6 +139,10 @@ projects:
       List of interesting projects accumulated over the years.
 
     assignments:
+      - title: Flaty
+        link: "#"
+        tagline: "A blockchain real estate start up idea that got awarded the 3rd prize in the Consensys Blockchain hackaton in Beirut Lebanon in October 2018"
+
       - title: FANSIS
         link: "http://fathomless-eyrie-98760.herokuapp.com/"
         tagline: "A fan conceptual sizing and design web application inspired by the work of Dr P. Epple"
