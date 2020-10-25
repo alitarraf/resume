@@ -21,7 +21,7 @@ sidebar:
     bitbucket:
     twitter: '@alitarraf'
     stack-overflow: 6464857/ali-tarraf # Number/Username, e.g. 123456/alandoe
-    #codewars: alitarraf
+    codewars: #alitarraf
     goodreads: 3865553-ali-tarraf
 
     languages:
@@ -192,7 +192,6 @@ publications:
     title: Publications
     intro: |
       
-
     papers:
       - title: "Hot Jet Ignition Delay Characterization of Methane and Hydrogen at Elevated Temperatures"
         authors: Ali Tarraf
@@ -207,7 +206,7 @@ publications:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Trainings
 
     toolset:
       - name: Coding: Python, JS, HTML, SQL
