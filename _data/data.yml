@@ -150,7 +150,7 @@ projects:
     assignments:
       - title: Tidai
         link: "https://www.tid.ai/app"
-        tagline: "I created TID.AI as an idea marketplace helping you discover and connect with people around ideas."
+        tagline: "I created TID.AI as an idea marketplace to help you discover and connect with people around ideas."
         
       - title: Lebdata
         link: "https://www.lebdata.com"
@@ -158,15 +158,15 @@ projects:
       
       - title: Covrex
         link: "http://sets-cloud.com/covrex"
-        tagline: "COVREX is a spatio temporal Covid19 risk index for the city of Beirut and Cairo visualised in a dynamic hexagonal map.
+        tagline: "COVREX is a spatio temporal Covid19 risk index for the city of Beirut and Cairo visualised in a dynamic hexagonal map."
       
       - title: Flaty
         link: "#"
-        tagline: "A blockchain real estate start up idea that got awarded the 3rd prize in the Consensys Blockchain hackaton in Beirut Lebanon in October 2018"
+        tagline: "A blockchain real estate start up idea that got awarded the 3rd prize in the Consensys Blockchain hackaton in Beirut Lebanon in October 2018."
       
       - title: 1 Million Arab Coders Udacity
         link: "https://www.udacity.com/mena/one-million-arab-coders/"
-        tagline: "Mentoring of aspiring coders through Udacity as a Full stack web developer over a period of 3 month in Q4 2018"
+        tagline: "Mentoring of aspiring coders through Udacity as a Full stack web developer over a period of 3 month in Q4 2018."
 
       - title: FANSIS
         link: "http://fathomless-eyrie-98760.herokuapp.com/"
@@ -209,25 +209,25 @@ skills:
     title: Skills &amp; Trainings
 
     toolset:
-      - name: Can code in Python, JS, HTML, SQL
+      - name:  Python, JS, HTML, SQL
         level: 80%
 
-      - name: Certification with Andrew Ng Learning Machine Learning
+      - name:  Certifications from deepLearning.ai
         level: 85%
 
-      - name: Training Ethereum Blockchain Bootcamp
+      - name:  Ethereum Blockchain Bootcamp
         level: 60%
 
-      - name: Training Design for Lean Six Sigma
+      - name:  Design for Lean Six Sigma
         level: 85%
 
-      - name: Training Six Sigma Greenbelt
+      - name:  Six Sigma Greenbelt
         level: 95%
       
-      - name: Trainings in Startups business models and valuation
+      - name:  Startups Business models and Valuation
         level: 850%
 
-      - name: Training Mindsets Financial modeling
+      - name:  Financial Modeling
         level: 80%
 
         
