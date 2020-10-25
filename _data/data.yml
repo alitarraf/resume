@@ -21,8 +21,8 @@ sidebar:
     bitbucket:
     twitter: '@alitarraf'
     stack-overflow: 6464857/ali-tarraf # Number/Username, e.g. 123456/alandoe
-    codewars: alitarraf
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #codewars: alitarraf
+    goodreads: 3865553-ali-tarraf
 
     languages:
       - idiom: English
@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: DIY
+      - item: DIY, Maker
         link:
 
       - item: Reading
@@ -43,12 +43,14 @@ sidebar:
 
       - item: Aviation and Space
         link:
+        
+      - item: Hiking
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Ali Tarraf is the lead data scientist and associate consultant at Mindsets, a strategy and decision advisory firm. Ali develops data to decision models to empower business decisions across the logistics, retail, manufacturing, healthcare and financial industry in the MENA region. 
-      Ali has 10 years of experience in manufacturing and Internet Of Things (IOT) solutions across West Africa and USA. He is currently actively pursuing research in Artificial Intelligence technology in partnership with AUB, and working his way towards earning a Deep Learning specialization certificate from Coursera/Stanford.
+      Ali architects technology solutions in the logistics, retail and manufacturing sector. Ali has 10 years of experience in technology, manufacturing and business in the Middle East, West Africa, and the USA.
 
 
 education:
@@ -69,12 +71,19 @@ experiences:
       time:  May 2018 - Present
       company: Mindsets, Beirut,Lebanon
       details: |
-        Leading a team of engineers and businesss consultant in Beirut, and Cairo to create measurable business value
+        Leading a team of engineers and businesss consultant in Beirut and Cairo to create measurable business value
         from the wealth of enterprise and public government data.
 
-          - Developed a routing optimization software for logistics delivery companies that saved 15% in processing time
-          - Developed the data to decision practice business model, and launched business development initiatives in the MENA region
+          - My team developed a delivery optimization application for a last mile logistics delivery company that increased productivity by 20%.
+          - My team analysed millions of point of sale transactions to deliver a customized recommender solution that increased customer attraction and sales conversion in stores.
+          - Developed the data to decision practice business model and launched business development initiatives in the MENA region.
 
+    - role: Lead Business AI 
+      time:  August 2019- Present
+      company: Beirut AI, Lebanon
+      details: |
+        I lead the team responsible of bringing adoption of AI technologies for business decision makers. We organise business workshops to showcase AI capabilities in different industries like Marketing, Insurance, Human Ressources.
+        
     - role: Design Engineer
       time:  September 2017- May 2018
       company: Regal Beloit, Wisconsin, USA
@@ -136,9 +145,21 @@ experiences:
 projects:
     title: Projects
     intro: >
-      List of interesting projects accumulated over the years.
+      List of interesting projects.
 
     assignments:
+      - title: Tidai
+        link: "https://www.tid.ai/app"
+        tagline: "I created TID.AI as an idea marketplace helping you discover and connect with people around ideas."
+        
+      - title: Lebdata
+        link: "https://www.lebdata.com"
+        tagline: "Founded LEBDATA, a non profit community to promote transparency in Lebanon by collecting and analysing public datasets."
+      
+      - title: Covrex
+        link: "http://sets-cloud.com/covrex"
+        tagline: "COVREX is a spatio temporal Covid19 risk index for the city of Beirut and Cairo visualised in a dynamic hexagonal map.
+      
       - title: Flaty
         link: "#"
         tagline: "A blockchain real estate start up idea that got awarded the 3rd prize in the Consensys Blockchain hackaton in Beirut Lebanon in October 2018"
@@ -189,23 +210,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Coding: Python, JS, HTML, SQL
         level: 80%
 
-      - name: Machine Learning
-        level: 60%
-
-      - name: Financial modeling
-        level: 80%
-
-      - name: Blockchain
-        level: 80%
-
-      - name: Electronics
+      - name: Certification with Andrew Ng Learning Machine Learning
         level: 85%
 
-      - name: Manufacturing
-        level: 95%
+      - name: Training Ethereum Blockchain Bootcamp
+        level: 60%
 
+      - name: Training Design for Lean Six Sigma
+        level: 85%
+
+      - name: Training Six Sigma Greenbelt
+        level: 95%
+      
+      - name: Trainings in Startups business models and valuation
+        level: 850%
+
+      - name: Training Mindsets Financial modeling
+        level: 80%
+
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
